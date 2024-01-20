@@ -2,6 +2,8 @@
     "recommendations": [
         "eiis.eiistime",
         "safeonlineworld.webjsx",
-        "zainchen.omi"
+        "zainchen.omi",
+        "visualzoran.vz-dotnet-file-templates",
+        "panenco.dotnet-snippets"
     ]
 }
